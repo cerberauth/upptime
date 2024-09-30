@@ -1,7 +1,7 @@
 url: https://status.cerberauth.com
-status: down
-code: 404
-responseTime: 140
-lastUpdated: 2024-09-30T14:24:09.017Z
+status: up
+code: 200
+responseTime: 78
+lastUpdated: 2024-09-30T14:33:10.464Z
 startTime: 2024-09-30T14:24:08.867Z
 generator: Upptime <https://github.com/upptime/upptime>
