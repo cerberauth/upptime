@@ -4,26 +4,38 @@ repo: upptime
 sites:
   - name: CerberAuth Auth
     url: https://auth.cerberauth.com/health/ready
+    maxResponseTime: 3000
   - name: CerberAuth OpenID Connect Provider
     url: https://oauth.cerberauth.com/health/ready
+    maxResponseTime: 3000
   - name: TestID
     url: https://testid.cerberauth.com/health/ready
+    maxResponseTime: 3000
   - name: CerberAuth Schemas
     url: https://schemas.cerberauth.com
+    maxResponseTime: 1000
   - name: CerberAuth
     url: https://www.cerberauth.com
+    maxResponseTime: 5000
   - name: VulnAPI
     url: https://vulnapi.cerberauth.com
+    maxResponseTime: 3000
   - name: Nacho
     url: https://nacho.cerberauth.com
+    maxResponseTime: 3000
   - name: Taco
     url: https://taco.cerberauth.com
+    maxResponseTime: 3000
   - name: Status Page
     url: https://status.cerberauth.com
+    maxResponseTime: 1000
   - name: Telemetry
     url: telemetry.cerberauth.com
     port: 443
     check: "tcp-ping"
+
+assignees:
+  - emmanuelgautier
 
 status-website:
   cname: status.cerberauth.com
