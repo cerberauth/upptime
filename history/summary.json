@@ -58,18 +58,20 @@
     "url": "https://schemas.cerberauth.com",
     "icon": "https://icons.duckduckgo.com/ip3/schemas.cerberauth.com.ico",
     "slug": "cerber-auth-schemas",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 129,
-    "timeWeek": 152,
-    "timeMonth": 177,
-    "timeYear": 177,
-    "dailyMinutesDown": {}
+    "time": 2075,
+    "timeDay": 10593,
+    "timeWeek": 2765,
+    "timeMonth": 2075,
+    "timeYear": 2075,
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "CerberAuth",
