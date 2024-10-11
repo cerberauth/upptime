@@ -34,6 +34,23 @@ sites:
     port: 443
     check: "tcp-ping"
 
+  - name: Angular SPA OIDC Example
+    url: https://cerberauth-angular-spa-oidc.pages.dev
+    maxResponseTime: 3000
+    delay: 86400000
+  - name: Next.js App OIDC Example
+    url: https://cerberauth-nextjs-app-oidc.pages.dev
+    maxResponseTime: 3000
+    delay: 86400000
+  - name: React SPA OIDC Example
+    url: https://cerberauth-react-spa-oidc.pages.dev
+    maxResponseTime: 3000
+    delay: 86400000
+  - name: Vue SPA OIDC Example
+    url: https://cerberauth-vue-spa-oidc.pages.dev
+    maxResponseTime: 3000
+    delay: 86400000
+
 assignees:
   - emmanuelgautier
 
