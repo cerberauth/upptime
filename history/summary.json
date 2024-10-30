@@ -4,19 +4,19 @@
     "url": "https://auth.cerberauth.com/health/ready",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cerberauth.com.ico",
     "slug": "cerber-auth-auth",
-    "status": "degraded",
-    "uptime": "99.80%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 886,
-    "timeDay": 1665,
-    "timeWeek": 1139,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 879,
+    "timeDay": 1453,
+    "timeWeek": 1091,
+    "timeMonth": 877,
+    "timeYear": 879,
     "dailyMinutesDown": {
-      "2024-10-30": 86
+      "2024-10-30": 101
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oauth.cerberauth.com.ico",
     "slug": "cerber-auth-open-id-connect-provider",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "94.16%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.77%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 787,
     "timeDay": 728,
     "timeWeek": 799,
     "timeMonth": 791,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-10-30": 84
+      "2024-10-30": 99
     }
   },
   {
