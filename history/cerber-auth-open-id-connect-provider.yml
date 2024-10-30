@@ -1,7 +1,7 @@
 url: https://oauth.cerberauth.com/health/ready
-status: up
-code: 200
-responseTime: 712
-lastUpdated: 2024-10-30T13:42:53.718Z
+status: down
+code: 502
+responseTime: 665
+lastUpdated: 2024-10-30T18:38:26.596Z
 startTime: 2024-09-30T14:24:01.242Z
 generator: Upptime <https://github.com/upptime/upptime>
