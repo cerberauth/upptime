@@ -26,7 +26,7 @@
     "url": "https://oauth.cerberauth.com/health/ready",
     "icon": "https://icons.duckduckgo.com/ip3/oauth.cerberauth.com.ico",
     "slug": "cerber-auth-open-id-connect-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "87.79%",
     "uptimeWeek": "98.26%",
