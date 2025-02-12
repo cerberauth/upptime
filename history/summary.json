@@ -124,19 +124,19 @@
     "url": "https://www.cerberauth.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cerberauth.com.ico",
     "slug": "cerber-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 125,
+    "timeDay": 135,
     "timeWeek": 150,
     "timeMonth": 158,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-02-12": 4
+      "2025-02-12": 10
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://vulnapi.cerberauth.com",
     "icon": "https://icons.duckduckgo.com/ip3/vulnapi.cerberauth.com.ico",
     "slug": "vuln-api",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 11751,
-    "timeWeek": 3139,
-    "timeMonth": 978,
-    "timeYear": 432,
+    "time": 430,
+    "timeDay": 7895,
+    "timeWeek": 2811,
+    "timeMonth": 954,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2025-02-12": 3
+      "2025-02-12": 9
     }
   },
   {
@@ -182,19 +182,19 @@
     "url": "https://status.cerberauth.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.cerberauth.com.ico",
     "slug": "status-page",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 5415,
-    "timeWeek": 1466,
-    "timeMonth": 479,
-    "timeYear": 226,
+    "time": 225,
+    "timeDay": 3635,
+    "timeWeek": 1312,
+    "timeMonth": 467,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-02-12": 2
+      "2025-02-12": 8
     }
   },
   {
@@ -238,19 +238,19 @@
     "url": "https://cerberauth-nextjs-app-oidc.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cerberauth-nextjs-app-oidc.pages.dev.ico",
     "slug": "next-js-app-oidc-example",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 214,
-    "timeWeek": 156,
+    "timeDay": 191,
+    "timeWeek": 158,
     "timeMonth": 167,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 7
     }
   },
   {
