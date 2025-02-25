@@ -1,7 +1,7 @@
 url: https://testid.cerberauth.com/health/ready
-status: down
-code: 503
-responseTime: 592
-lastUpdated: 2025-02-24T23:17:51.133Z
+status: up
+code: 200
+responseTime: 533
+lastUpdated: 2025-02-25T12:37:09.843Z
 startTime: 2024-09-30T14:24:02.600Z
 generator: Upptime <https://github.com/upptime/upptime>
