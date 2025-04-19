@@ -294,7 +294,7 @@
     "uptime": "86.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.62%",
+    "uptimeMonth": "14.61%",
     "uptimeYear": "86.36%",
     "time": 278,
     "timeDay": 1247,
@@ -302,7 +302,7 @@
     "timeMonth": 615,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2025-04-19": 1312,
+      "2025-04-19": 1316,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -337,19 +337,19 @@
     "url": "https://cerberauth-react-spa-oidc.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cerberauth-react-spa-oidc.pages.dev.ico",
     "slug": "react-spa-oidc-example",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 118,
-    "timeWeek": 149,
+    "timeDay": 115,
+    "timeWeek": 144,
     "timeMonth": 136,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-04-19": 1
+      "2025-04-19": 4
     }
   },
   {
@@ -357,19 +357,19 @@
     "url": "https://cerberauth-vue-spa-oidc.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cerberauth-vue-spa-oidc.pages.dev.ico",
     "slug": "vue-spa-oidc-example",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 3389,
-    "timeWeek": 950,
-    "timeMonth": 340,
+    "timeDay": 2301,
+    "timeWeek": 858,
+    "timeMonth": 333,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-04-19": 0
+      "2025-04-19": 4
     }
   }
 ]
