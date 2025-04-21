@@ -1,7 +1,7 @@
 url: https://cerberauth-angular-spa-oidc.pages.dev
-status: degraded
+status: up
 code: 200
-responseTime: 6024
-lastUpdated: 2025-04-21T13:59:19.284Z
+responseTime: 103
+lastUpdated: 2025-04-21T14:16:05.759Z
 startTime: 2024-10-11T09:53:54.061Z
 generator: Upptime <https://github.com/upptime/upptime>
