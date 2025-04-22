@@ -1,7 +1,7 @@
 url: https://vulnapi.cerberauth.com
-status: degraded
+status: up
 code: 200
-responseTime: 6977
-lastUpdated: 2025-04-22T22:56:40.490Z
+responseTime: 329
+lastUpdated: 2025-04-22T23:10:44.073Z
 startTime: 2024-09-30T14:24:06.481Z
 generator: Upptime <https://github.com/upptime/upptime>
