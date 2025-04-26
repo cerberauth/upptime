@@ -1,7 +1,7 @@
 url: https://cerberauth-nextjs-app-oidc.pages.dev
-status: down
+status: degraded
 code: 500
-responseTime: 126
-lastUpdated: 2025-04-25T23:18:39.369Z
+responseTime: 5308
+lastUpdated: 2025-04-26T06:56:23.607Z
 startTime: 2024-10-11T09:53:54.645Z
 generator: Upptime <https://github.com/upptime/upptime>
