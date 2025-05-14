@@ -1,7 +1,7 @@
 url: https://cerberauth-vue-spa-oidc.pages.dev
-status: degraded
+status: up
 code: 200
-responseTime: 6421
-lastUpdated: 2025-05-14T17:10:54.310Z
+responseTime: 108
+lastUpdated: 2025-05-14T17:30:27.426Z
 startTime: 2024-10-11T09:53:55.814Z
 generator: Upptime <https://github.com/upptime/upptime>
