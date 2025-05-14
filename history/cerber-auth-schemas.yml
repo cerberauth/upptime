@@ -1,7 +1,7 @@
 url: https://schemas.cerberauth.com
-status: degraded
+status: up
 code: 200
-responseTime: 1573
-lastUpdated: 2025-05-14T18:21:46.020Z
+responseTime: 193
+lastUpdated: 2025-05-14T18:43:02.008Z
 startTime: 2024-09-30T14:24:04.796Z
 generator: Upptime <https://github.com/upptime/upptime>
