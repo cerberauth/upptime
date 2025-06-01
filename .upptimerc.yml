@@ -2,51 +2,9 @@ owner: cerberauth
 repo: upptime
 
 sites:
-  - name: CerberAuth Auth
-    url: https://auth.cerberauth.com/health/ready
-    maxResponseTime: 3000
-  - name: CerberAuth OpenID Connect Provider
-    url: https://oauth.cerberauth.com/health/ready
-    maxResponseTime: 3000
-  - name: TestID
-    url: https://testid.cerberauth.com/health/ready
-    maxResponseTime: 3000
-  - name: CerberAuth Schemas
-    url: https://schemas.cerberauth.com
-    maxResponseTime: 1000
-  - name: CerberAuth
-    url: https://www.cerberauth.com
-    maxResponseTime: 5000
-  - name: VulnAPI
-    url: https://vulnapi.cerberauth.com
-    maxResponseTime: 3000
-  - name: Nacho
-    url: https://nacho.cerberauth.com
-    maxResponseTime: 3000
   - name: Status Page
     url: https://status.cerberauth.com
     maxResponseTime: 1000
-  - name: Telemetry
-    url: telemetry.cerberauth.com
-    port: 443
-    check: "tcp-ping"
-
-  - name: Angular SPA OIDC Example
-    url: https://cerberauth-angular-spa-oidc.pages.dev
-    maxResponseTime: 3000
-    delay: 86400000
-  - name: Next.js App OIDC Example
-    url: https://cerberauth-nextjs-app-oidc.pages.dev
-    maxResponseTime: 3000
-    delay: 86400000
-  - name: React SPA OIDC Example
-    url: https://cerberauth-react-spa-oidc.pages.dev
-    maxResponseTime: 3000
-    delay: 86400000
-  - name: Vue SPA OIDC Example
-    url: https://cerberauth-vue-spa-oidc.pages.dev
-    maxResponseTime: 3000
-    delay: 86400000
 
 assignees:
   - emmanuelgautier
@@ -54,11 +12,11 @@ assignees:
 status-website:
   cname: status.cerberauth.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: CerberAuth Status
-  introTitle: "CerberAuth Status"
-  introMessage: "Monitor CerberAuth's services uptime and status"
+  name: CerberAuth Old Status
+  introTitle: "CerberAuth Old Status"
+  introMessage: "Old Monitor CerberAuth's services uptime and status"
   navbar:
-    - title: Status
-      href: /
+    - title: Status Page
+      href: https://status.cerberauth.com
     - title: GitHub
       href: https://github.com/$OWNER
